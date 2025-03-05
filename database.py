@@ -3,16 +3,16 @@ import time
 from utils import log_error
 
 dbconfig_read = {
-    'host': 'ich-db.edu.itcareerhub.de',
-    'user': 'ich1',
+    'host': 'hostname',
+    'user': 'user',
     'password': 'password',
     'database': 'sakila'
 }
 
 dbconfig_write = {
-    'host': 'ich-edit.edu.itcareerhub.de',
-    'user': 'ich1',
-    'password': 'ich1_password_ilovedbs',
+    'host': 'hostname',
+    'user': 'user',
+    'password': 'password',
     'database': 'ich_edit'
 }
 
