@@ -17,7 +17,7 @@
 # #
 # # # Основная функция запуска бота
 # # def main():
-# #     application = Application.builder().token("7831708872:AAH8e_ogMmL3iY2IB2M8chWN1Kg1kX6ftAg").build()
+# #     application = Application.builder().token("TelegrammToken").build()
 # #
 # #     # Обработчики команд
 # #     application.add_handler(CommandHandler("start", start))
